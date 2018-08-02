@@ -1,0 +1,7 @@
+C:\Users\Sergeim\C# Studies\Pluralsight\intro to C# part 1\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\Sergeim\C# Studies\Pluralsight\intro to C# part 1\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\Sergeim\C# Studies\Pluralsight\intro to C# part 1\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\Sergeim\C# Studies\Pluralsight\intro to C# part 1\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+C:\Users\Sergeim\C# Studies\Pluralsight\intro to C# part 1\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\Sergeim\C# Studies\Pluralsight\intro to C# part 1\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\Sergeim\C# Studies\Pluralsight\intro to C# part 1\Grades\Grades\obj\Debug\Grades.pdb
